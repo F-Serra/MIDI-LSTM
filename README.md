@@ -16,4 +16,7 @@ The main modification to the original RNN-implementation is the way the samples 
 3. If the maximum is a note-on then choose another note-on by a weighted pick according to all note-on probability values.
 4. If (iterator index) % (some handtuned value around 20) == 0 then choose mode 3 else choose mode 1.
 
-Mode 4 yielded the best results. I've included two example files to listen to: 
+Mode 4 yielded the best results. I've included 3 exampls to listen to:  
+[song-wo-3-3-long.mid](song-wo-3-3-long.mid)  
+[song-wo-3-4-solo1.mid](song-wo-3-4-solo1.mid)  
+[song-wo-3-5-solo2.mid](song-wo-3-5-solo2.mid)
