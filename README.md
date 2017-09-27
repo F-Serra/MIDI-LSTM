@@ -20,3 +20,6 @@ Mode 4 yielded the best results. I've included 3 examples to listen to:
 [song-wo-3-3-long.mid](song-wo-3-3-long.mid)  
 [song-wo-3-4-solo1.mid](song-wo-3-4-solo1.mid)  
 [song-wo-3-5-solo2.mid](song-wo-3-5-solo2.mid)
+
+Best-of video:  
+[![Example](https://img.youtube.com/vi/GBI8ViPjCSo/0.jpg)](https://www.youtube.com/watch?v=GBI8ViPjCSo)
